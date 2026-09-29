@@ -1,0 +1,7 @@
+{
+  "name": "Aardee Plumbing - Foley AL",
+  "description": "A modern, high-performance website for Aardee Plumbing featuring an AI-powered diagnostic assistant, service showcases, and real-time scheduling requests.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
